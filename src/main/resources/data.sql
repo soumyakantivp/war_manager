@@ -1,0 +1,1 @@
+insert into enemy(number, th, strength, notes) values(1, 1, 'test', 'test');
